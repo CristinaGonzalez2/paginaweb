@@ -217,23 +217,6 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
-.imgq2{
-    height: 400px;
-    width: 10000px;
-    background-image: url(enlace\ quimico\ 1tercer.jpg);
-    float: left;
-    background-repeat: no-repeat;
-
-}
-
-.imgq3{
-
-    height: 400px;
-    width: 300px;
-    background-image: url(covalente\ 2.jfif);
-    float: left;
-    background-repeat: no-repeat;
-}
 .imgm1{
 
     height: 400px;
@@ -255,4 +238,109 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     height: 300px;
     width: 400px;
     background-image: url(binomio\ 3m.jfif);
+}
+
+.imgm4{
+
+    height: 700px;
+    width: 700px;
+    background-image: url(cubo\ 4m.jpg);
+
+}
+
+.imgm5{
+
+    height: 400px;
+    width: 1300px;
+    background-image: url(trinomio\ 5m.jpg);
+
+
+}
+
+.imgm6{
+
+    height: 300px;
+    width: 700px;
+    background-image: url(factor\ 6m.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.imgm7{
+
+    height: 400px;
+    width: 300px;
+    background-image: url(diferencia\ 7m.jfif);
+
+}
+
+.imgm8{
+
+    height: 400px;
+    width: 500px;
+    background-image: url(factor\ 8m.jpg);
+
+}
+
+.imgq1{
+
+    height: 200px;
+    width: 300px;
+    background-image: url(enlace\ quimico\ 1tercer.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.imgq2{
+
+    height: 400px;
+    width: 400px;
+    background-image: url(ionico\ 2q.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.imgq3{
+
+    height: 300px;
+    width: 400px;
+    background-image: url(covalente\ 3q.jfif);
+    background-repeat: no-repeat;
+
+}
+
+.imgq4{
+
+    height: 300px;
+    width: 300px;
+    background-image: url(metalico\ 4q.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.imgq5{
+
+    height: 400px;
+    width: 300px;
+    background-image: url(hidrogeno\ 5q.jfif);
+    background-repeat: no-repeat;
+    
+}
+
+.imgq6{
+
+    height: 900px;
+    width: 2000px;
+    background-image: url(mapa\ q6.jpeg);
+    background-repeat: no-repeat;
+
+}
+
+.imgs1{
+
+    height: 900px;
+    width: 1000px;
+    background-image: url(mapa\ s1.jpeg);
+    background-repeat: no-repeat;
+    
 }
