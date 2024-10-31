@@ -344,3 +344,97 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
 
 }
+
+.imgb1{
+
+    height: 400px;
+    width: 600px;
+    background-image: url(fertilizacion\ b1.jpg);
+
+}
+
+.imgb2{
+
+    height: 700px;
+    width: 700px;
+    background-image: url(segmentacion\ b2.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.imgb3{
+
+    height: 400px;
+    width: 400px;
+    background-image: url(gastrulacion\ b3.jpg);
+
+}
+
+.imgb4{
+
+    height: 400px;
+    width: 400px;
+    background-image: url(organogenesis\ b4.jfif);
+    background-repeat: no-repeat;
+
+}
+
+.imgb5{
+
+    height: 600px;
+    width: 800px;
+    background-image: url(prenatal\ b5.jpeg);
+    background-repeat: no-repeat;
+}
+
+.imgb6{
+
+    height: 400px;
+    width: 500px;
+    background-image: url(dilatacion\ b6.jpg);
+    background-repeat: no-repeat;
+}
+
+.imgb7{
+
+    height: 500px;
+    width: 400px;
+    background-image: url(expulsion\ b7.jfif);
+    background-repeat: no-repeat;
+
+}
+
+.imgb8{
+
+    height: 400px;
+    width: 400px;
+    background-image: url(alumbramiento\ b8.jfif);
+    background-repeat: no-repeat;
+    
+}
+
+.imgt1{
+
+    height: 600px;
+    width: 800px;
+    background-image: url(excel\ t1.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.imgt2{
+
+    height: 300px;
+    width: 300px;
+    background-image: url(suma\ t2.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.imgt3{
+
+    height: 500px;
+    width: 600px;
+    background-image: url(promedio\ t3.jpg);
+
+}
